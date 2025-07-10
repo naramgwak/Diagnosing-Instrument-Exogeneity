@@ -46,7 +46,7 @@ This repository provides simulation code and supplemental materials for the post
 *Comparing IV Estimates to Adjusted DiD Estimates*  
 This presentation focuses on the diagnostic potential of estimator agreement, particularly when the common trends assumption can be **defended or adjusted** in gain score analysis.
 
-> 📁 Materials available in the `/reference materials/` directory.
+> 📁 Materials available in the `/reference_materials/` directory.
 
 ---
 
@@ -58,7 +58,7 @@ This repository includes R scripts that reproduce all simulation results used in
 - DiD estimation under common trend assumption  
 - Monte Carlo simulations for agreement patterns  
 
-> 📁 Code available in the `/simulation code/` directory.
+> 📁 Code available in the `/simulation/` directory.
 
 ---
 
